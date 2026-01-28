@@ -1,3 +1,5 @@
-# IBM Data Science Professional Certificate (Repository)
-- **Title:** Applied Data Science Capstone (Course #10)
-- **Module #1:** Introduction
+# C10: Applied Data Science Capstone
+## mod1 : Introduction 
+- **Module:** Introduction (Module 1 of 5)
+- **Course:** Applied Data Science Capstone (Course 10 of 12)
+- **Specialization:** IBM Data Science Professional Certificate
